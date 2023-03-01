@@ -8,6 +8,7 @@
 - 我本职一直从事软件开发工作, 有**20年**多年的开发经验, 平时也做一些私活.   
 - 开发语言从早期的 Delphi/VB, 到现在的C#/Java/Python;   
 - 项目类型有Windows form 、WPF、 Web 和数据仓库项目和 Excel 自动化, 都有非常多的经验.  
+- 擅长的技术框架有: C# Winform、C# WPF、Java SpringBoot、Python Flask/FastApi、C# Blazor 
 
 ## 了解和联系我的渠道: 
 - 我的个人站点: <https://harryliu.github.io>

@@ -5,7 +5,7 @@ date: 2020-02-01T20:55:32+08:00
 draft: false
 author: Liuzhongwu
 categories: ["案例"]
-tags: ["工厂技改项目","C#"]
+tags: ["工厂技改项目",".Net Framework","CSharp"]
 ---
 
 ## 帕莱克 P1500-PSC 对刀仪的量测管理和 NC 代码自动生成技改方案
