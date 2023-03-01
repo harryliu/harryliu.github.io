@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "dark.min.css",
-	"sourceRoot": "D:/my_workspace/source/src1/github/harryliu.github.io/site",
+	"sourceRoot": "D:/my_workspace/source/src1/github/harryliu.github.io/__site",
 	"sources": [
 		"themes/LoveIt/assets/lib/aplayer/dark.scss"
 	],
