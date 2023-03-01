@@ -781,14 +781,14 @@ enableEmoji = true
         name = "Categories"
         url = "/categories/"
         title = ""
-      [[languages.en.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
+      #[[languages.en.menu.main]]
+      #  weight = 4
+      #  identifier = "documentation"
+      #  pre = ""
+      #  post = ""
+      #  name = "Docs"
+      #  url = "/categories/documentation/"
+      #  title = ""
       [[languages.en.menu.main]]
         weight = 5
         identifier = "about"
@@ -874,13 +874,13 @@ enableEmoji = true
         name = "分类"
         url = "/categories/"
         title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        name = "文档"
-        url = "/categories/documentation/"
-        title = ""
+      #[[languages.zh-cn.menu.main]]
+      #  weight = 4
+      #  identifier = "documentation"
+      #  pre = ""
+      #  name = "文档"
+      #  url = "/categories/documentation/"
+      #  title = ""
       [[languages.zh-cn.menu.main]]
         weight = 5
         identifier = "about"
