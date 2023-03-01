@@ -1,5 +1,12 @@
-# 关于作者
-
+---
+title: "关于作者"
+description: "关于"
+date: 2020-02-01T20:55:32+08:00
+draft: false
+author: Liuzhongwu
+categories: ["关于"]
+tags: ["关于"]
+---
  
 
 ## 介绍
@@ -15,5 +22,4 @@
 - 我的益智游戏网: <https://yzyx.info>
 - 我的**主要**邮箱: `liuzhongwu2008@163.com` 
 - **较少使用**的邮箱: `harrychinese@gmail.com`  和 `liuzhongwu2008@outlook.com` 
-
 

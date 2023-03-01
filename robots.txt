@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://harryliu.github.com/en/sitemap.xml
+Sitemap: https://harryliu.github.com/sitemap.xml

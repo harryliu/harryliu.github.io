@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>关于 - 分类 - Harry刘忠武</title>
+        <link>https://harryliu.github.com/categories/%E5%85%B3%E4%BA%8E/</link>
+        <description>关于 - 分类 - Harry刘忠武</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 01 Feb 2020 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.com/categories/%E5%85%B3%E4%BA%8E/" rel="self" type="application/rss+xml" /><item>
+    <title>关于作者</title>
+    <link>https://harryliu.github.com/about/</link>
+    <pubDate>Sat, 01 Feb 2020 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.com/about/</guid>
+    <description><![CDATA[介绍 我是刘忠武, 一个靠谱的程序员, 可以帮助您快速实现业务价值, 如您有软件项目缺人手实现, 可以联系我。 我本职一直从事软件开发工作, 有20年多年]]></description>
+</item>
+</channel>
+</rss>

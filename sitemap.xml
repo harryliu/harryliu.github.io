@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://harryliu.github.com/en/sitemap.xml</loc>
-    
-      <lastmod>2023-03-01T19:57:00+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://harryliu.github.com/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2023-03-01T19:57:00+08:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://harryliu.github.com/tags/c#/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/categories/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/knife_setter/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/posts/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/tags/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/categories/%E6%A1%88%E4%BE%8B/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/tags/%E5%B7%A5%E5%8E%82%E6%8A%80%E6%94%B9%E9%A1%B9%E7%9B%AE/</loc><lastmod>2023-03-01T21:18:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://harryliu.github.com/tags/%E5%85%B3%E4%BA%8E/</loc><lastmod>2020-02-01T20:55:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://harryliu.github.com/categories/%E5%85%B3%E4%BA%8E/</loc><lastmod>2020-02-01T20:55:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://harryliu.github.com/about/</loc><lastmod>2020-02-01T20:55:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://harryliu.github.com/categories/documentation/</loc><lastmod>2023-03-01T19:57:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

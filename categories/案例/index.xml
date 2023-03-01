@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>案例 - 分类 - Harry刘忠武</title>
+        <link>https://harryliu.github.com/categories/%E6%A1%88%E4%BE%8B/</link>
+        <description>案例 - 分类 - Harry刘忠武</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 01 Feb 2020 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.com/categories/%E6%A1%88%E4%BE%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>Knife_setter 对刀仪技改项目</title>
+    <link>https://harryliu.github.com/knife_setter/</link>
+    <pubDate>Sat, 01 Feb 2020 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.com/knife_setter/</guid>
+    <description><![CDATA[帕莱克 P1500-PSC 对刀仪的量测管理和 NC 代码自动生成技改方案 客户：某世界500强医疗器械公司苏州工厂 。 针对 Parlec 帕莱克 P1500-PSC 刀具对刀仪，进行技术改造，完成对测量]]></description>
+</item>
+</channel>
+</rss>
