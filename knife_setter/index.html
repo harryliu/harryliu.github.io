@@ -144,21 +144,21 @@
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="knife_setter_files/1.jpg"
-        data-srcset="knife_setter_files/1.jpg, knife_setter_files/1.jpg 1.5x, knife_setter_files/1.jpg 2x"
+        data-src="../knife_setter_files/1.jpg"
+        data-srcset="../knife_setter_files/1.jpg, ../knife_setter_files/1.jpg 1.5x, ../knife_setter_files/1.jpg 2x"
         data-sizes="auto"
-        alt="knife_setter_files/1.jpg"
-        title="knife_setter_files/1.jpg" /></p>
+        alt="../knife_setter_files/1.jpg"
+        title="../knife_setter_files/1.jpg" /></p>
 <p>简述一下技改之前的使用的场景：操作人员先用该对刀仪量测刀具尺寸，然后将测量结果打印到标签纸上，再拿着便签纸到加工中心上将量测值输入到 NC 文件中，懂行的人都明白，这些量测值精度都很高，小数点后好几位，另外在加工中心的输入这些数值可不像电脑那么方便。总体来讲，这种模式效率很低，而且容易出错.</p>
 <p>在了解了现状后，我给了一个技改方案：一图胜千言，先上图.</p>
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="knife_setter_files/2.jpg"
-        data-srcset="knife_setter_files/2.jpg, knife_setter_files/2.jpg 1.5x, knife_setter_files/2.jpg 2x"
+        data-src="../knife_setter_files/2.jpg"
+        data-srcset="../knife_setter_files/2.jpg, ../knife_setter_files/2.jpg 1.5x, ../knife_setter_files/2.jpg 2x"
         data-sizes="auto"
-        alt="knife_setter_files/2.jpg"
-        title="knife_setter_files/2.jpg" /></p>
+        alt="../knife_setter_files/2.jpg"
+        title="../knife_setter_files/2.jpg" /></p>
 <p>在这个方案中， 我引入了一台电脑 + 对刀仪量测管理系统，即上图的 (2) 部分。该量测管理系统能自动提取出帕莱克量测仪的数值，并可以将测量数值传到该公司的测量数据库中，同时生成加工中心 NC 代码，并上传 NC 代码到服务器上，(该客户的测量数据库和 NC 代码服务器是一个机器).</p>
 <h2 id="技改难点">技改难点:</h2>
 <h3 id="1-如何自动获取对刀仪的测量值">1. 如何自动获取对刀仪的测量值？</h3>
