@@ -3,7 +3,15 @@
         <title>所有文章 - Harry刘忠武</title>
         <link>https://harryliu.github.io/posts/</link>
         <description>所有文章 | Harry刘忠武</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Apr 2020 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 05 Jun 2022 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>OEE 机台整体效率监控</title>
+    <link>https://harryliu.github.io/oee/</link>
+    <pubDate>Sun, 05 Jun 2022 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/oee/</guid>
+    <description><![CDATA[OEE 机台整体效率监控系统 客户：上海中型机械制造工厂(约有近百台数控机床和加工中心)。 在各类加工制造行业，如何提高机台利用率，是每一个企业家都需]]></description>
+</item>
+<item>
     <title>Laser_measuring 基恩士激光测量仪EAP系统</title>
     <link>https://harryliu.github.io/laser_measuring/</link>
     <pubDate>Fri, 10 Apr 2020 20:55:32 &#43;0800</pubDate>
@@ -17,7 +25,7 @@
     <pubDate>Sat, 01 Feb 2020 20:55:32 &#43;0800</pubDate>
     <author>Liuzhongwu</author>
     <guid>https://harryliu.github.io/knife_setter/</guid>
-    <description><![CDATA[帕莱克 P1500-PSC 对刀仪的量测管理和 NC 代码自动生成技改方案 客户：某世界500强医疗器械公司苏州工厂 。 针对 Parlec 帕莱克 P1500-PSC 刀具对刀仪，进行技术改造，完成对测量]]></description>
+    <description><![CDATA[帕莱克 P1500-PSC 对刀仪的量测管理方案 客户：某世界500强医疗器械公司苏州工厂 。 针对 Parlec 帕莱克 P1500-PSC 刀具对刀仪，进行技术改造，完成对测量结果的管理和 NC 代码的]]></description>
 </item>
 </channel>
 </rss>
