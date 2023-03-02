@@ -9,12 +9,6 @@
 - 开发语言从早期的 Delphi/VB, 到现在的C#/Java/Python;   
 - 项目类型有Windows form 、WPF、 Web 和数据仓库项目和 Excel 自动化, 都有非常多的经验.  
 - 擅长的技术框架有: C# Winform、C# WPF、Java SpringBoot、Python Flask/FastApi、C# Blazor 
-
-## 了解和联系我的渠道: 
-- 我的个人站点: <https://harryliu.github.io>
-- 我的技术博客: <https://harrychinese.cnblogs.com>
-- 我的益智游戏网: <https://yzyx.info>
-- 我的**主要**邮箱: `liuzhongwu2008@163.com` 
-- **较少使用**的邮箱: `harrychinese@gmail.com`  和 `liuzhongwu2008@outlook.com` 
+- 主要数据库: MySQL, Postgresql, Oracle, Sqlite, MongoDB
 
 
