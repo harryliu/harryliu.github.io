@@ -9,7 +9,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://harryliu.github.io/oee/" /><meta property="og:image" content="https://harryliu.github.io/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-06-05T20:55:32+08:00" />
-<meta property="article:modified_time" content="2022-06-05T20:55:32+08:00" /><meta property="og:site_name" content="LoveIt" />
+<meta property="article:modified_time" content="2023-03-03T07:28:54+08:00" /><meta property="og:site_name" content="LoveIt" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://harryliu.github.io/logo.png"/>
 
@@ -32,8 +32,8 @@
                             "url": "https:\/\/harryliu.github.io\/images\/Apple-Devices-Preview.png",
                             "width":  3200 ,
                             "height":  2048 
-                        }],"genre": "posts","keywords": "工厂技改项目, .Net Framework, .Net Core, CSharp","wordcount":  466 ,
-        "url": "https:\/\/harryliu.github.io\/oee\/","datePublished": "2022-06-05T20:55:32+08:00","dateModified": "2022-06-05T20:55:32+08:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+                        }],"genre": "posts","keywords": "工厂技改项目, .Net Framework, .Net Core, CSharp","wordcount":  503 ,
+        "url": "https:\/\/harryliu.github.io\/oee\/","datePublished": "2022-06-05T20:55:32+08:00","dateModified": "2023-03-03T07:28:54+08:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
                     "@type": "ImageObject",
@@ -113,8 +113,8 @@
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">OEE 机台整体效率监控</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Liuzhongwu</a>
 </span>&nbsp;<span class="post-category">收录于 <a href="/categories/%E6%A1%88%E4%BE%8B/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>案例</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-06-05">2022-06-05</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;约 466 字&nbsp;
-                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;预计阅读 1 分钟&nbsp;<span id="/oee/" class="leancloud_visitors" data-flag-title="OEE 机台整体效率监控">
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2022-06-05">2022-06-05</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;约 503 字&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;预计阅读 2 分钟&nbsp;<span id="/oee/" class="leancloud_visitors" data-flag-title="OEE 机台整体效率监控">
                         <i class="far fa-eye fa-fw" aria-hidden="true"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;次阅读
                     </span>&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
@@ -125,9 +125,8 @@
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
     <li><a href="#oee-机台整体效率监控系统">OEE 机台整体效率监控系统</a></li>
-  </ul>
-
-  <ul>
+    <li><a href="#功能需求">功能需求</a></li>
+    <li><a href="#部署架构图">部署架构图</a></li>
     <li><a href="#oeemain-程序配置">Oee.Main 程序配置</a></li>
     <li><a href="#oeecollector-程序配置">Oee.Collector 程序配置</a></li>
   </ul>
@@ -141,7 +140,7 @@
 <li>可以防止工人摸鱼, 降低用工成本</li>
 </ul>
 <p>为客户定制开发了一套基恩士 TM-3000 测量仪配套的管理系统，反馈不错。 如果有谁需要定制开发，可以联系我，<code>liuzhongwu2008@163.com.</code></p>
-<h1 id="功能需求">功能需求</h1>
+<h2 id="功能需求">功能需求</h2>
 <ul>
 <li>以部门为单位，实时收机每台机台的稼动率，在汇总部门机台的总稼动率</li>
 <li>大屏显示每个部门机台的稼动率</li>
@@ -150,41 +149,41 @@
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="oee_files/2.jpg"
-        data-srcset="oee_files/2.jpg, oee_files/2.jpg 1.5x, oee_files/2.jpg 2x"
+        data-src="../oee_files/2.jpg"
+        data-srcset="../oee_files/2.jpg, ../oee_files/2.jpg 1.5x, ../oee_files/2.jpg 2x"
         data-sizes="auto"
-        alt="oee_files/2.jpg"
-        title="oee_files/2.jpg" /></p>
-<h1 id="部署架构图">部署架构图</h1>
+        alt="../oee_files/2.jpg"
+        title="../oee_files/2.jpg" /></p>
+<h2 id="部署架构图">部署架构图</h2>
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="oee_files/21.jpg"
-        data-srcset="oee_files/21.jpg, oee_files/21.jpg 1.5x, oee_files/21.jpg 2x"
+        data-src="../oee_files/21.jpg"
+        data-srcset="../oee_files/21.jpg, ../oee_files/21.jpg 1.5x, ../oee_files/21.jpg 2x"
         data-sizes="auto"
-        alt="oee_files/21.jpg"
-        title="oee_files/21.jpg" /></p>
+        alt="../oee_files/21.jpg"
+        title="../oee_files/21.jpg" /></p>
 <h2 id="oeemain-程序配置">Oee.Main 程序配置</h2>
 <p>Oee.Main 程序提供系统管理和看板功能.<br>
 大屏看板界面:<br>
 <img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="oee_files/17.jpg"
-        data-srcset="oee_files/17.jpg, oee_files/17.jpg 1.5x, oee_files/17.jpg 2x"
+        data-src="../oee_files/17.jpg"
+        data-srcset="../oee_files/17.jpg, ../oee_files/17.jpg 1.5x, ../oee_files/17.jpg 2x"
         data-sizes="auto"
-        alt="oee_files/17.jpg"
-        title="oee_files/17.jpg" /></p>
+        alt="../oee_files/17.jpg"
+        title="../oee_files/17.jpg" /></p>
 <p>管理菜单:<br>
 在使用之前, 需要完成系统基础数据维护工作.
 <img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="oee_files/20.jpg"
-        data-srcset="oee_files/20.jpg, oee_files/20.jpg 1.5x, oee_files/20.jpg 2x"
+        data-src="../oee_files/20.jpg"
+        data-srcset="../oee_files/20.jpg, ../oee_files/20.jpg 1.5x, ../oee_files/20.jpg 2x"
         data-sizes="auto"
-        alt="oee_files/20.jpg"
-        title="oee_files/20.jpg" /></p>
+        alt="../oee_files/20.jpg"
+        title="../oee_files/20.jpg" /></p>
 <h2 id="oeecollector-程序配置">Oee.Collector 程序配置</h2>
 <p>Oee.Collector 程序负责从PLC中收集机台状态, 并完成状态的预处理工作, 将结果写入到 Oee 数据库中.<br>
 一个工厂可以启动多个 Oee.Collector 程序, 但应确保对于特定一个机台, 只能有一个 Oee.Collector 程序完成信号采集, 要防止多个程序重复收值.</p>
@@ -196,16 +195,18 @@
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="oee_files/19.jpg"
-        data-srcset="oee_files/19.jpg, oee_files/19.jpg 1.5x, oee_files/19.jpg 2x"
+        data-src="../oee_files/19.jpg"
+        data-srcset="../oee_files/19.jpg, ../oee_files/19.jpg 1.5x, ../oee_files/19.jpg 2x"
         data-sizes="auto"
-        alt="oee_files/19.jpg"
-        title="oee_files/19.jpg" /></p>
+        alt="../oee_files/19.jpg"
+        title="../oee_files/19.jpg" /></p>
+<p>如果您有类似需求，可以联系我，<code>liuzhongwu2008@163.com</code></p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>更新于 2022-06-05</span>
+                <span>更新于 2023-03-03&nbsp;<a class="git-hash" href="https://github.com/harryliu/commit/a6c6b23a6ccbaa65f9d371eff7a2cc01b065262f" target="_blank" title="commit by harry liu(harrychinese@gmail.com) a6c6b23a6ccbaa65f9d371eff7a2cc01b065262f: add oee page">
+                                    <i class="fas fa-hashtag fa-fw" aria-hidden="true"></i>a6c6b23</a></span>
             </div></div>
         <div class="post-info-line">
             <div class="post-info-md"><span>
