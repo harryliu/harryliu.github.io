@@ -27,7 +27,7 @@
     <pubDate>Sun, 01 Aug 2021 20:55:32 &#43;0800</pubDate>
     <author>Liuzhongwu</author>
     <guid>https://harryliu.github.io/edwin/</guid>
-    <description><![CDATA[简单介绍一下edwin edwin是一个开源的报警和监控平台, 使用Python 语言开发, web 框架使用的是 Flask. 仓库地址是 https://github.com/harryliu/edwin . edwin 可以使用它监控任意东西]]></description>
+    <description><![CDATA[edwin 简介 edwin是一个开源的报警和监控平台, 使用Python 语言开发, web 框架使用的是 Flask. 仓库地址是 https://github.com/harryliu/edwin . edwin 可以使用它监控任意东西, 如有异常(分为]]></description>
 </item>
 <item>
     <title>Laser_measuring 基恩士激光测量仪EAP系统</title>
