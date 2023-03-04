@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>web - 标签 - Harry刘忠武</title>
+        <link>https://harryliu.github.io/tags/web/</link>
+        <description>web - 标签 - Harry刘忠武</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 10 Mar 2022 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/tags/web/" rel="self" type="application/rss+xml" /><item>
+    <title>JS 游戏网站开发</title>
+    <link>https://harryliu.github.io/js_games/</link>
+    <pubDate>Thu, 10 Mar 2022 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/js_games/</guid>
+    <description><![CDATA[缘起： 作为一个棋牌游戏的爱好者，经常下五子棋、四子棋、英国跳棋，但一直苦于找不到合适的游戏网站，别提什么 4366 这样的小游戏网站，iPad、手机因]]></description>
+</item>
+</channel>
+</rss>
