@@ -22,6 +22,14 @@
     <description><![CDATA[缘起： 作为一个棋牌游戏的爱好者，经常下五子棋、四子棋、英国跳棋，但一直苦于找不到合适的游戏网站，别提什么 4366 这样的小游戏网站，iPad、手机因]]></description>
 </item>
 <item>
+    <title>edwin 监控报警系统</title>
+    <link>https://harryliu.github.io/edwin/</link>
+    <pubDate>Sun, 01 Aug 2021 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/edwin/</guid>
+    <description><![CDATA[简单介绍一下edwin edwin是一个开源的报警和监控平台, 使用Python 语言开发, web 框架使用的是 Flask. 仓库地址是 https://github.com/harryliu/edwin . edwin 可以使用它监控任意东西]]></description>
+</item>
+<item>
     <title>Laser_measuring 基恩士激光测量仪EAP系统</title>
     <link>https://harryliu.github.io/laser_measuring/</link>
     <pubDate>Fri, 10 Apr 2020 20:55:32 &#43;0800</pubDate>
