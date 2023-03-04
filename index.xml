@@ -3,9 +3,17 @@
         <title>Harry刘忠武</title>
         <link>https://harryliu.github.io/</link>
         <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 05 Jun 2022 20:55:32 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 01 Mar 2023 10:30:32 &#43;0800</lastBuildDate>
             <atom:link href="https://harryliu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>软件开发使用到工具</title>
+    <link>https://harryliu.github.io/tools/</link>
+    <pubDate>Wed, 01 Mar 2023 10:30:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/tools/</guid>
+    <description><![CDATA[下面是我平时开发软件项目常用的工具, 都是十分优秀的生产力工具. 设计类工具 ArgoUML UML 设计软件 Pencil Project 原型设计工具 MockPlus 原型设计工具(收费) Xmind Mind map工具 DrawIO 通]]></description>
+</item>
+<item>
     <title>OEE 机台整体效率监控</title>
     <link>https://harryliu.github.io/oee/</link>
     <pubDate>Sun, 05 Jun 2022 20:55:32 &#43;0800</pubDate>
@@ -16,7 +24,7 @@
 <item>
     <title>JS 游戏网站开发</title>
     <link>https://harryliu.github.io/js_games/</link>
-    <pubDate>Thu, 10 Mar 2022 20:55:32 &#43;0800</pubDate>
+    <pubDate>Thu, 10 Mar 2022 20:16:32 &#43;0800</pubDate>
     <author>Liuzhongwu</author>
     <guid>https://harryliu.github.io/js_games/</guid>
     <description><![CDATA[缘起： 作为一个棋牌游戏的爱好者，经常下五子棋、四子棋、英国跳棋，但一直苦于找不到合适的游戏网站，别提什么 4366 这样的小游戏网站，iPad、手机因]]></description>
@@ -24,7 +32,7 @@
 <item>
     <title>edwin 监控报警系统</title>
     <link>https://harryliu.github.io/edwin/</link>
-    <pubDate>Sun, 01 Aug 2021 20:55:32 &#43;0800</pubDate>
+    <pubDate>Sun, 01 Aug 2021 15:25:32 &#43;0800</pubDate>
     <author>Liuzhongwu</author>
     <guid>https://harryliu.github.io/edwin/</guid>
     <description><![CDATA[edwin 简介 edwin是一个开源的报警和监控平台, 使用Python 语言开发, web 框架使用的是 Flask. 仓库地址是 https://github.com/harryliu/edwin . edwin 可以使用它监控任意东西, 如有异常(分为]]></description>
@@ -40,7 +48,7 @@
 <item>
     <title>Knife_setter 对刀仪技改项目</title>
     <link>https://harryliu.github.io/knife_setter/</link>
-    <pubDate>Sat, 01 Feb 2020 20:55:32 &#43;0800</pubDate>
+    <pubDate>Sat, 01 Feb 2020 20:10:32 &#43;0800</pubDate>
     <author>Liuzhongwu</author>
     <guid>https://harryliu.github.io/knife_setter/</guid>
     <description><![CDATA[帕莱克对刀仪的量测管理方案 客户：某世界500强医疗器械公司苏州工厂 。 针对 Parlec 帕莱克 P1500-PSC 刀具对刀仪，进行技术改造，完成对测量结果的管理和 NC 代码的自]]></description>

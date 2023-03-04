@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>开发工具 - 分类 - Harry刘忠武</title>
+        <link>https://harryliu.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+        <description>开发工具 - 分类 - Harry刘忠武</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 01 Mar 2023 10:30:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/" rel="self" type="application/rss+xml" /><item>
+    <title>软件开发使用到工具</title>
+    <link>https://harryliu.github.io/tools/</link>
+    <pubDate>Wed, 01 Mar 2023 10:30:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/tools/</guid>
+    <description><![CDATA[下面是我平时开发软件项目常用的工具, 都是十分优秀的生产力工具. 设计类工具 ArgoUML UML 设计软件 Pencil Project 原型设计工具 MockPlus 原型设计工具(收费) Xmind Mind map工具 DrawIO 通]]></description>
+</item>
+</channel>
+</rss>
