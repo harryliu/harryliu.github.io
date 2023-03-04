@@ -26,6 +26,7 @@ tags: ["关于"]
 - 技术博客: <https://harrychinese.cnblogs.com>
 - 纯js益智游戏网: <https://yzyx.info>
 - github: <https://github.com/harryliu> 
+- gitee: <https://gitee.com/harrychinese>
 - **主要**邮箱: `liuzhongwu2008@163.com`
 - **较少使用**的邮箱: `harrychinese@gmail.com`  和 `liuzhongwu2008@outlook.com` 
 
