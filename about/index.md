@@ -8,9 +8,9 @@
 自认为是一名靠谱的程序员, 技术全面, 可以帮助您快速实现业务价值, 如您有软件项目缺人手实现, 欢迎联系我。  
 
 擅长的技术栈: 
-- 开发语言: 从早期的 Delphi/VB, 到现在的C#/Java/Python;   
+- 开发语言: 从早期的 Delphi/VB, 到现在的C#/Java/Python/PHP;   
 - 私单项目类型有: 工厂设备技改项目、小型MES系统、仓库管理系统、Web建站、WordPress 和 Excel 自动化.  
-- 技术框架有: C# Winform、C# WPF、Java SpringBoot、Python Flask/FastApi、C# Blazor、Javascript & Bootstrap 
+- 技术框架有: C# Winform、C# WPF、Java SpringBoot、Python Flask/FastApi、C# Blazor、WordPress、Javascript & Bootstrap 
 - 主要数据库: MySQL, Postgresql, Oracle, Sqlite, MongoDB
 
 ## 了解和联系我的渠道 
