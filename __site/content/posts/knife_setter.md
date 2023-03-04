@@ -8,7 +8,7 @@ categories: ["案例"]
 tags: ["工厂技改项目",".Net Framework","CSharp"]
 ---
 
-## 帕莱克 P1500-PSC 对刀仪的量测管理方案
+## 帕莱克对刀仪的量测管理方案
 客户：某世界500强医疗器械公司苏州工厂 。 
 
 针对 Parlec 帕莱克 P1500-PSC 刀具对刀仪，进行技术改造，完成对测量结果的管理和 NC 代码的自动生成。客户反馈相当不错。如果有谁需要定制开发，可以联系我，`liuzhongwu2008@163.com.`
@@ -56,6 +56,6 @@ Parlec 帕莱克 P1500-PSC 的操作系统并不是通用的 Windows/Linux, 应�
 
 最后，贴一张量测管理软件的截图. 
 
-![](knife_setter_files/3.jpg)
+![](../knife_setter_files/3.jpg)
 
 如果您有类似需求，可以联系我，`liuzhongwu2008@163.com`
