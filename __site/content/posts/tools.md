@@ -8,7 +8,7 @@ categories: ["开发工具"]
 tags: ["开发工具"]
 ---
 
-下面是我平时开发软件项目常用的工具, 都是十分优秀的生产力工具. 
+下面是我平时开发软件项目常用的工具, 都是十分优秀的生产力工具.  
 
 ## 设计类工具
 - [ArgoUML](https://argouml-tigris-org.github.io/tigris/argouml/) UML 设计软件 
@@ -16,11 +16,11 @@ tags: ["开发工具"]
 - [MockPlus](https://www.mockplus.cn/?hmsr=360m)  原型设计工具(收费)
 - [Xmind](https://xmind.cn/) Mind map工具
 - [DrawIO](https://draw.io/index.html) 通用diagram工具
-- [excalidraw](https://excalidraw.com/) 手绘类diagram工具
+- [ExcaliDraw](https://excalidraw.com/) 手绘类diagram工具
 
 ## 开发工具
 - [Visual Studio Code](https://code.visualstudio.com/)用来写web前端代码 
-- [SpringToolSuite](https://spring.io/tools/) 开发Java项目
+- [Spring Tool Suite](https://spring.io/tools/) 开发Java项目
 - [Visual Studio 社区版](https://visualstudio.microsoft.com/zh-hans/downloads/) 开发C#项目
 - [Pycharm 社区版](https://www.jetbrains.com/pycharm/download/#section=windows) 开发Python项目
 - [HBuilderX](https://dcloud.io/hbuilderx.html) 用来写web前端代码 

@@ -3,15 +3,15 @@
  
 
 ## 介绍   
-我叫刘忠武, 一直从事软件系统开发工作, 有**20年**多年的开发经验。  
+我叫刘忠武, 住在上海, 一直从事软件系统开发工作, 有**20年**多年的开发经验。  
 
-自认为是一名靠谱的程序员, 技术全面, 可以帮助您快速实现业务价值, 如您有软件项目缺人手实现, 欢迎联系我。  
+自认为是一名靠谱的程序员, 技术全面, 可以帮助您快速实现业务价值, 如您的软件项目缺人手实现, 欢迎联系我。  
 
 擅长的技术栈: 
 - 开发语言: 从早期的 Delphi/VB, 到现在的C#/Java/Python/PHP;   
 - 私单项目类型有: 工厂设备技改项目、小型MES系统、仓库管理系统、Web建站、WordPress 和 Excel 自动化.  
 - 技术框架有: C# Winform、C# WPF、Java SpringBoot、Python Flask/FastApi、C# Blazor、WordPress、Javascript & Bootstrap 
-- 主要数据库: MySQL, Postgresql, Oracle, Sqlite, MongoDB
+- 主要数据库: MySQL, Postgresql, SQL Server, Oracle, Sqlite, MongoDB
 
 ## 了解和联系我的渠道 
 - 个人微信: `harrychinese` 
@@ -24,7 +24,7 @@
 - **较少使用**的邮箱: `harrychinese@gmail.com`  和 `liuzhongwu2008@outlook.com` 
 
 ## 教育和职业经历
-- 本科和硕士毕业于辽宁工程技术大学
+- 本科和硕士毕业于辽宁工程技术大学.
 - 曾在一家大型美资软件公司担任过资深软件工程师, 期间为路透社、MetLife、诺华等公司交付过软件系统.
 - 曾在一家外资保险公司担任过资深系统架构师, 参与数据仓库建设.
 - 目前在一家大型制造型公司, 负责MES系统研发工作. 
@@ -65,10 +65,7 @@
  
 
 ### 不接的活
-- 视频、BC 、杀猪盘勿扰
 - 一句话需求勿扰
-- Web3 、区块链、币圈勿扰
+- Web3 、区块链、币圈、视频勿扰
 
-## upwork 平台
-定价 $35/hour 
 
