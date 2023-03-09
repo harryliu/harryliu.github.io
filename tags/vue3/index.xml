@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vue3 - 标签 - Harry刘忠武</title>
+        <link>https://harryliu.github.io/tags/vue3/</link>
+        <description>Vue3 - 标签 - Harry刘忠武</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 05 Sep 2022 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/tags/vue3/" rel="self" type="application/rss+xml" /><item>
+    <title>WMS 仓库管理系统</title>
+    <link>https://harryliu.github.io/wms/</link>
+    <pubDate>Mon, 05 Sep 2022 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/wms/</guid>
+    <description><![CDATA[项目背景 客户：上海某医疗器械制造公司。 在经济新常态状况下, 该企业有较强的降本增效需求, 提高仓库的管理水平, 提升交付能力: 客户要求: 系统功能完]]></description>
+</item>
+</channel>
+</rss>
