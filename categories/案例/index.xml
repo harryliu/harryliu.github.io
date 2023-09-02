@@ -3,7 +3,15 @@
         <title>案例 - 分类 - Harry刘忠武</title>
         <link>https://harryliu.github.io/categories/%E6%A1%88%E4%BE%8B/</link>
         <description>案例 - 分类 - Harry刘忠武</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 05 Sep 2022 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/categories/%E6%A1%88%E4%BE%8B/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 01 Sep 2023 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/categories/%E6%A1%88%E4%BE%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>电动汽车铸件自动测量检具</title>
+    <link>https://harryliu.github.io/car_part_measure/</link>
+    <pubDate>Fri, 01 Sep 2023 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/car_part_measure/</guid>
+    <description><![CDATA[项目解决 客户的客户：电动汽车第一品牌。 和朋友合作开发一个电动汽车铸件支架自动测量检具, 该支架尺寸较大, 又是给第一品牌电动汽车供货, 客户要求非]]></description>
+</item>
+<item>
     <title>WMS 仓库管理系统</title>
     <link>https://harryliu.github.io/wms/</link>
     <pubDate>Mon, 05 Sep 2022 20:55:32 &#43;0800</pubDate>
