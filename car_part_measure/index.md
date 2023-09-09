@@ -11,17 +11,17 @@
 项目整体时间虽紧, 无论是机械部件还是软件, 质量上没有妥协, 整体结果完全符合客户要求.
  
 ## 下位机
-PLC 采用西门子1200 1214 DCDCDC 
+PLC 采用西门子1200 1214 DCDCDC   
 触摸屏截图: 
- ![](../car_part_measure_files/2.jpg)
+ ![](../car_part_measure_files/2.png)
 
 
 ## 上位机系统
 上位机截图: 
- ![](../car_part_measure_files/3.jpg)
+ ![](../car_part_measure_files/3.png)
 
  代码统计: 
- ![](../car_part_measure_files/1.jpg)
+![](../car_part_measure_files/1.png) 
 
 
 如果您有类似需求，可以联系我，`liuzhongwu2008@163.com`
