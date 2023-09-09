@@ -5,7 +5,7 @@ date: 2022-09-05T20:55:32+08:00
 draft: false
 author: Liuzhongwu
 categories: ["案例"]
-tags: ["仓库管理系统",".Net Core",".Net Core","CSharp","Vue3"]
+tags: ["仓库管理系统","DotNet_Core","CSharp","Vue3"]
 ---
 
 ## 项目背景

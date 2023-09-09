@@ -5,7 +5,7 @@ date: 2023-09-01T20:55:32+08:00
 draft: false
 author: Liuzhongwu
 categories: ["案例"]
-tags: ["工厂技改项目",".Net Framework","CSharp", "PLC"]
+tags: ["工厂技改项目","DotNet_Framework","CSharp", "PLC"]
 ---
 
 

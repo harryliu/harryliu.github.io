@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DotNet_Core - 标签 - Harry刘忠武</title>
+        <link>https://harryliu.github.io/tags/dotnet_core/</link>
+        <description>DotNet_Core - 标签 - Harry刘忠武</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 05 Sep 2022 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/tags/dotnet_core/" rel="self" type="application/rss+xml" /><item>
+    <title>WMS 仓库管理系统</title>
+    <link>https://harryliu.github.io/wms/</link>
+    <pubDate>Mon, 05 Sep 2022 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/wms/</guid>
+    <description><![CDATA[项目背景 客户：上海某医疗器械制造公司。 在经济新常态状况下, 该企业有较强的降本增效需求, 提高仓库的管理水平, 提升交付能力: 客户要求: 系统功能完]]></description>
+</item>
+<item>
+    <title>OEE 机台整体效率监控</title>
+    <link>https://harryliu.github.io/oee/</link>
+    <pubDate>Sun, 05 Jun 2022 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/oee/</guid>
+    <description><![CDATA[OEE 机台整体效率监控系统 客户：上海某中型机械制造工厂(近百台数控机床和加工中心)。 在各类加工制造行业，如何提高机台利用率，是每一个企业家都需要]]></description>
+</item>
+</channel>
+</rss>

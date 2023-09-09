@@ -5,7 +5,7 @@ date: 2022-06-05T20:55:32+08:00
 draft: false
 author: Liuzhongwu
 categories: ["案例"]
-tags: ["工厂技改项目",".Net Framework",".Net Core","CSharp", "Modbus"]
+tags: ["工厂技改项目","DotNet_Framework","DotNet_Core","CSharp", "Modbus"]
 ---
 
 ## OEE 机台整体效率监控系统

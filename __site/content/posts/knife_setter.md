@@ -5,7 +5,7 @@ date: 2020-02-01T20:10:32+08:00
 draft: false
 author: Liuzhongwu
 categories: ["案例"]
-tags: ["工厂技改项目",".Net Framework","CSharp"]
+tags: ["工厂技改项目","DotNet_Framework","CSharp"]
 ---
 
 ## 帕莱克对刀仪的量测管理方案

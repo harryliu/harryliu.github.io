@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DotNet_Framework - 标签 - Harry刘忠武</title>
+        <link>https://harryliu.github.io/tags/dotnet_framework/</link>
+        <description>DotNet_Framework - 标签 - Harry刘忠武</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 01 Sep 2023 20:55:32 &#43;0800</lastBuildDate><atom:link href="https://harryliu.github.io/tags/dotnet_framework/" rel="self" type="application/rss+xml" /><item>
+    <title>电动汽车铸件自动测量检具</title>
+    <link>https://harryliu.github.io/car_part_measure/</link>
+    <pubDate>Fri, 01 Sep 2023 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/car_part_measure/</guid>
+    <description><![CDATA[项目概况 客户的客户：电动汽车第一品牌。 和朋友合作开发一个电动汽车铸件支架自动测量检具, 该支架尺寸较大, 又是给第一品牌电动汽车供货, 客户要求非]]></description>
+</item>
+<item>
+    <title>OEE 机台整体效率监控</title>
+    <link>https://harryliu.github.io/oee/</link>
+    <pubDate>Sun, 05 Jun 2022 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/oee/</guid>
+    <description><![CDATA[OEE 机台整体效率监控系统 客户：上海某中型机械制造工厂(近百台数控机床和加工中心)。 在各类加工制造行业，如何提高机台利用率，是每一个企业家都需要]]></description>
+</item>
+<item>
+    <title>Laser_measuring 基恩士激光测量仪EAP系统</title>
+    <link>https://harryliu.github.io/laser_measuring/</link>
+    <pubDate>Fri, 10 Apr 2020 20:55:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/laser_measuring/</guid>
+    <description><![CDATA[项目简介 客户：某世界500强医疗器械公司苏州工厂。 为客户定制开发了一套基恩士 TM-3000 测量仪配套的管理系统，反馈不错。 如果有谁需要定制开发，可以联系]]></description>
+</item>
+<item>
+    <title>Knife_setter 对刀仪技改项目</title>
+    <link>https://harryliu.github.io/knife_setter/</link>
+    <pubDate>Sat, 01 Feb 2020 20:10:32 &#43;0800</pubDate>
+    <author>Liuzhongwu</author>
+    <guid>https://harryliu.github.io/knife_setter/</guid>
+    <description><![CDATA[帕莱克对刀仪的量测管理方案 客户：某世界500强医疗器械公司苏州工厂 。 针对 Parlec 帕莱克 P1500-PSC 刀具对刀仪，进行技术改造，完成对测量结果的管理和 NC 代码的自]]></description>
+</item>
+</channel>
+</rss>
