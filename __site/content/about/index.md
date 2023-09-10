@@ -12,17 +12,19 @@ tags: ["关于"]
 ## 介绍   
 我叫刘忠武, 住在上海, 一直从事软件系统开发工作, 有**20年**多年的开发经验。  
 
-自认为是一名靠谱的程序员, 技术全面, 可以帮助您快速实现业务价值, 如您的软件项目缺人手实现, 欢迎联系我。 
-对于介绍生意的朋友, 我将给您 **30%** 的佣金. 
+自认为是一名靠谱的程序员, 技术全面, 可以帮助您快速实现业务价值. 
+- 如您的软件项目缺人手实现, 欢迎联系我。 
+- 如果您手上有项目可转包给我. 
+- 如您给我介绍生意, 我将给您 **30%** 的佣金.  
 
 擅长的技术栈: 
 - 开发语言: 从早期的 Delphi/VB, 到现在的C#/Java/Python/PHP;   
-- 私单项目类型有: 工厂设备技改项目、小型MES系统、仓库管理系统、Web建站、WordPress 和 Excel 自动化.  
-- 技术框架有: C# Winform、C# WPF、Java SpringBoot、Python Flask/FastApi、C# Blazor、WordPress、Javascript & Bootstrap 
-- 主要数据库: MySQL, Postgresql, SQL Server, Oracle, Sqlite, MongoDB
+- 私单项目类型有: 工厂设备技改项目、小型MES系统、仓库管理系统、Web建站、WordPress 等.  
+- 技术框架有: C# Winform、C# Blazor、Java SpringBoot、Python Flask/FastApi、WordPress、Javascript & Bootstrap 
+- 主要数据库: MySQL, PostgreSQL, SQL Server, Oracle, Sqlite
 
 ## 了解和联系我的渠道 
-- 个人微信: `harrychinese` 
+- 个人微信: `harrychinese` , 欢迎微信加我. 
 - 个人站点: <https://harryliu.github.io>
 - 技术博客: <https://harrychinese.cnblogs.com>
 - 纯js益智游戏网: <https://yzyx.info>
